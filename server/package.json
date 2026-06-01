@@ -1,16 +1,22 @@
 {
-  "name": "server",
+  "name": "oncehuman-memeticnote-server",
   "version": "1.0.0",
+  "description": "Express backend for Once Human Memetic Note with auth, OCR, hive sharing, chat, and trading APIs.",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "once-human",
+    "memetic",
+    "ocr",
+    "discord",
+    "express"
+  ],
+  "author": "Lee Dong Hyun",
   "dependencies": {
     "@oauth-everything/passport-discord": "^1.0.2",
     "bcryptjs": "^3.0.2",
