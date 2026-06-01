@@ -1,7 +1,9 @@
 {
-  "name": "client",
+  "name": "oncehuman-memeticnote-client",
   "private": true,
   "version": "0.0.0",
+  "description": "React frontend for the Once Human Memetic Note web app.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
