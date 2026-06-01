@@ -4,6 +4,15 @@ Full-stack web app for tracking and sharing Once Human memetic progress across c
 
 Live site: https://memeticnote.kr
 
+## Screenshots
+
+Screenshot slots are prepared in [`docs/screenshots`](docs/screenshots). Recommended captures:
+
+- Dashboard / memetic tracker
+- Hive sharing view
+- OCR upload flow
+- Trading board
+
 ## What It Does
 
 - Tracks memetic collection progress by character
